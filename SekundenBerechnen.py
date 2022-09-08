@@ -25,7 +25,7 @@ def sekundenBerechnen():
 ###################################################
 
 # Die nächste Zeile nicht verändern
-    return str(stunden) + " Stunden, " + str(minuten) + " Minuten und " + str(sekunden) + " Sekunden sind insgesamt " + str(total_sekunden) + " Sekunden"
+    return str(stunden) + " Stunden, " + str(minuten) + " Minuten und " + str(sekunden) + " Sekunden sind insgesamt " + str(total_sekunden) + " Sekunden."
 
 # Erwarterter output (Beispiel)
 # Für 7 Stunden, 21 Minuten und 37 Sekunden sollte dein output folgendermaßen aussehen:
