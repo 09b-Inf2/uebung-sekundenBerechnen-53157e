@@ -6,18 +6,17 @@ def sekundenBerechnen():
 ###################################################
 # Frage hier die Stunden, die Minuten sowie die Sekunden ab und wandle den string in einen integer um. Weise den Wert jeweils einer Variable zu. Zwei Variablen fehlen noch!!
     stunden = int(input("Stunden?"))
-    minuten = int(input("Minuten?"))
-    sekunden = int(input("Sekunden?"))
+    
 
 
 
 ###################################################
 # Formel zur Umwandlung con Stunden, Minuten, Sekunden in Sekunden
-# Du sollttest deinen code unter dieser Zeile einfügen. Das Ergebnis der Rechnung wird der Variable total_sekunden zugewiesen.
+# Du sollttest deinen code unter dieser Zeile einfügen. Das Ergebnis der Rechnung wird der Variable total_sekunden zugewiesen. ACHTE AUF DIE INDENTIERUNG!
 
-    total_sekunden = 3600*stunden + 60*minuten + sekunden
+    
 
-   #################################################
+####################################################
 # output
 # Hier wird das Ergebnis in der gewünschten Form ausgegeben.
     print(stunden, "Stunden,", minuten, "Minuten und", sekunden, "Sekunden sind insgesamt", total_sekunden, "Sekunden.") 
