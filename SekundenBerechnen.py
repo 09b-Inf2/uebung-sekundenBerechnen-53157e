@@ -14,7 +14,7 @@ def sekundenBerechnen():
 # Formel zur Umwandlung con Stunden, Minuten, Sekunden in Sekunden
 # Du sollttest deinen code unter dieser Zeile einfügen. Das Ergebnis der Rechnung wird der Variable total_sekunden zugewiesen. ACHTE AUF DIE INDENTIERUNG!
 
-    
+    total_sekunden = 
 
 ####################################################
 # output
